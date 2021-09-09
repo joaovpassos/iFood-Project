@@ -4,7 +4,7 @@
 
 # Projeto iFood
 
-### Nesse projeto, realizei a coleta de dados referente a 30 restaurantes no site do [iFood](https://www.ifood.com.br/) através de uma extensão do navegador Google Chrome chamada [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=pt-BR)
+#### Nesse projeto, realizei a coleta de dados referente a 30 restaurantes no site do [iFood](https://www.ifood.com.br/) através de uma extensão do navegador Google Chrome chamada [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=pt-BR)
 
  - Primeiramente, agrupei os dados coletados de três colegas, além dos meus, que continham as mesmas variáveis. Isso foi feito para que a análise ficasse mais robusta, pois assim haveria maior quantidade de dados disponíveis.
 
